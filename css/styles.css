@@ -1,0 +1,23 @@
+
+    body {
+      margin: 0;
+      background-color:#bedbbb;
+    }
+
+    table,td {
+      padding:8px;
+    }
+
+    hr {
+      border-style: none;
+      border-top-style: dotted;
+      border-color: #8db596;
+      border-width: 8px;
+      width: 5%;
+      background-color: transparent;
+    }
+
+    h1, h3 {
+      color: #92817a;
+      margin-top: 0;
+    }
